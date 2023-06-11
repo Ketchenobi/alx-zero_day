@@ -1,0 +1,4 @@
+*~
+```
+
+This will tell Git to ignore all files that end with a `~` character, which is the convention used by Emacs to indicate backup files.
